@@ -1,2 +1,4 @@
 # learn_frontend
-Meus cursos e estudos e atividades sobre programação web front-end
+My courses, studies and activities about front-end web development
+
+Check in the folders my projects and courses
